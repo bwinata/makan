@@ -1,0 +1,7 @@
+jane-on-fillmore:
+  address: "Hello World"
+  phone: "415-309-4775"
+  op_hours:
+    weekdays: "9-6pm"
+    weekend: "12-6pm"
+     
